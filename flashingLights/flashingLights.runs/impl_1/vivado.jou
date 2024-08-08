@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Aug  8 03:15:08 2024
+# Process ID: 441369
+# Current directory: /home/paul/Documents/DigialDesigns/flashingLights/flashingLights.runs/impl_1
+# Command line: vivado -log finiteStateMachine.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source finiteStateMachine.tcl -notrace
+# Log file: /home/paul/Documents/DigialDesigns/flashingLights/flashingLights.runs/impl_1/finiteStateMachine.vdi
+# Journal file: /home/paul/Documents/DigialDesigns/flashingLights/flashingLights.runs/impl_1/vivado.jou
+# Running On        :paul-ThinkPad-X1-Carbon-Gen-9
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.4 LTS
+# Processor Detail  :11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+# CPU Frequency     :3200.000 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :16467 MB
+# Swap memory       :2147 MB
+# Total Virtual     :18614 MB
+# Available Virtual :5575 MB
+#-----------------------------------------------------------
+source finiteStateMachine.tcl -notrace
