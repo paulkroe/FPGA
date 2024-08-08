@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Aug  6 21:31:05 2024
+# Process ID: 224581
+# Current directory: /home/paul/Documents/DigialDesigns/multiplexer/multiplexer.runs/impl_1
+# Command line: vivado -log fourToOneMultiplexer.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fourToOneMultiplexer.tcl -notrace
+# Log file: /home/paul/Documents/DigialDesigns/multiplexer/multiplexer.runs/impl_1/fourToOneMultiplexer.vdi
+# Journal file: /home/paul/Documents/DigialDesigns/multiplexer/multiplexer.runs/impl_1/vivado.jou
+# Running On        :paul-ThinkPad-X1-Carbon-Gen-9
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.4 LTS
+# Processor Detail  :11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+# CPU Frequency     :3784.582 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :16467 MB
+# Swap memory       :2147 MB
+# Total Virtual     :18614 MB
+# Available Virtual :8047 MB
+#-----------------------------------------------------------
+source fourToOneMultiplexer.tcl -notrace
