@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Aug 10 00:09:14 2024
+# Process ID: 574311
+# Current directory: /home/paul/Documents/FPGA/dimmingLED/dimmingLED.runs/synth_1
+# Command line: vivado -log dimLED.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dimLED.tcl
+# Log file: /home/paul/Documents/FPGA/dimmingLED/dimmingLED.runs/synth_1/dimLED.vds
+# Journal file: /home/paul/Documents/FPGA/dimmingLED/dimmingLED.runs/synth_1/vivado.jou
+# Running On        :paul-ThinkPad-X1-Carbon-Gen-9
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.4 LTS
+# Processor Detail  :11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+# CPU Frequency     :2194.437 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :16467 MB
+# Swap memory       :2147 MB
+# Total Virtual     :18614 MB
+# Available Virtual :7702 MB
+#-----------------------------------------------------------
+source dimLED.tcl -notrace
