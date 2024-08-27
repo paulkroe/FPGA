@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/arithmeticModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module arithmeticModule
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/bitwiseAdd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bitwiseAdd
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module extend
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/fourToOneMux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fourToOneMux
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/logicModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module logicModule
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sources_1/new/twoToOneMux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twoToOneMux
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/paul/Documents/FPGA/ALU/ALU.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
